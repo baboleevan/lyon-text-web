@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Lyon Text Web';
+  src: url('./font/LyonDisplay-Regular-Web.ttf') format('truetype');
+  font-weight:  400;
+  font-stretch: normal;
+}
+
+* {
+    font-family: 'Lyon Text Web', sans-serif !important;
+}
