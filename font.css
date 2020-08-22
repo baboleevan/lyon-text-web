@@ -1,10 +1,27 @@
 @font-face {
-  font-family: 'Lyon Text Web';
-  src: url('https://rawcdn.githack.com/baboleevan/lyon-text-web/501fa620f5ad344de5ae85c13d268c2ea40a5286/lyon-text-regular.woff') format('truetype');
+  font-family: 'Lyon-Text';
+  src: url('https://rawcdn.githack.com/baboleevan/lyon-text-web/501fa620f5ad344de5ae85c13d268c2ea40a5286/lyon-text-regular.woff');
   font-weight:  400;
   font-stretch: normal;
 }
 
-* {
-    font-family: 'Lyon Text Web', sans-serif !important;
+@font-face {
+	font-family: "Lyon-Text";
+	src: url(https://rawcdn.githack.com/baboleevan/lyon-text-web/501fa620f5ad344de5ae85c13d268c2ea40a5286/lyon-text-regular-italic.woff) format("woff");
+	font-style: italic;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Lyon-Text";
+	src: url(https://rawcdn.githack.com/baboleevan/lyon-text-web/501fa620f5ad344de5ae85c13d268c2ea40a5286/lyon-text-semibold.woff) format("woff");
+	font-style: normal;
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: "Lyon-Text";
+	src: url(https://rawcdn.githack.com/baboleevan/lyon-text-web/501fa620f5ad344de5ae85c13d268c2ea40a5286/lyon-text-semibold-italic.woff) format("woff");
+	font-style: italic;
+	font-weight: 600;
 }
