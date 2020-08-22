@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Lyon Text Web';
-  src: url('./LyonDisplay-Regular-Web.ttf') format('truetype');
+  src: url('https://rawcdn.githack.com/baboleevan/lyon-text-web/501fa620f5ad344de5ae85c13d268c2ea40a5286/lyon-text-regular.woff') format('truetype');
   font-weight:  400;
   font-stretch: normal;
 }
